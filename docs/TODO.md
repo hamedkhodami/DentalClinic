@@ -32,9 +32,9 @@
 
 | Step | Title | Status |
 |---------|---------|---------|
-| 1️⃣ | Setup Monolithic Architecture | 🎯 |
-| 2️⃣ | Configure Pre-commit Tools | 📌 |
-| 3️⃣ | Core App Models | 📌 |
+| 1️⃣ | Setup Monolithic Architecture | ✅ |
+| 2️⃣ | Configure Pre-commit Tools | ✅ |
+| 3️⃣ | Core App Models | 🎯 |
 | 4️⃣ | Accounts App Models | 📌 |
 | 5️⃣ | Patients App Models | 📌 |
 | 6️⃣ | Doctors App Models | 📌 |
